@@ -1,2 +1,2 @@
 # final_exam_ann
-Final Exam 
+I add the data set as tura and yazı folders. 
